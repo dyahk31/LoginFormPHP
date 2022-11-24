@@ -1,0 +1,13 @@
+.content-img img{
+    width: auto;
+    height: 400px;
+}
+
+.content-text{
+    margin-left: 800px;
+    margin-top: -290px; 
+}
+
+.card{
+    margin-top: 70px;
+}
